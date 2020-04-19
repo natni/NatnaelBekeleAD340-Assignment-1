@@ -1,0 +1,2 @@
+rootProject.name='AppNat'
+include ':app'
